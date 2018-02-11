@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/zwliew/lineageos-stats-server#readme",
   "dependencies": {
+    "@koa/cors": "^2.2.1",
     "koa": "^2.4.1",
     "koa-cache-lite": "^3.8.3",
     "koa-route": "^3.2.0",
